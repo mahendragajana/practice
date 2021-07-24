@@ -1,3 +1,0 @@
-mahi=yadav
-yadav=mahi
-
